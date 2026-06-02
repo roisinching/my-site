@@ -1,0 +1,11 @@
+node_modules/
+.wrangler/
+dist/
+*.bin
+sample.aiff
+sample.wav
+sample.wav.srt
+sample.wav.txt
+sample.wav.vtt
+.DS_Store
+.agents/skills/typefully/
