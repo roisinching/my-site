@@ -195,6 +195,13 @@ app.get("/soccer", (c) => {
         </div>
 
         <a href="/" class="inline-block mt-10 hand" style="font-size:1.4rem;color:var(--coral);">← back home</a>
+
+        <div class="pop d6 mt-12">
+          <div class="sticker inline-block px-6 py-4" style="background:var(--sun);">
+            <span class="bobble" style="font-size:2.4rem;">🏆</span>
+            <span class="hand" style="font-size:1.6rem;margin-left:0.5rem;">my goal: team USA one day!</span>
+          </div>
+        </div>
       </main>
     </Layout>
   )
